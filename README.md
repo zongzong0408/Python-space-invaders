@@ -1,4 +1,4 @@
-# Space-Invaders
+# Python-Space-Invaders
 
     運用 Python 語言實作太空侵略者遊戲
     Making Space Invaders by using Python language
