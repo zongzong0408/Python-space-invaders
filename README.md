@@ -10,6 +10,9 @@
 > 可參考以下連結說明。  
 
 - YouTube：...
+    - [使用 Python 語言實作「太空侵略者 Space Invaders」 遊戲專題講解](https://youtu.be/Uan-lrejMio)
+    - [使用 Python 語言實作「太空侵略者 Space Invaders」 遊戲片段](https://youtu.be/fsHSoYivJeo)
+    - [Using Python language to implement the "Space Invaders" game clip](https://youtu.be/ivpsa0tO7Os)
 - Paper： 
 
 ## 配置要求 *Configuration Requirements*
